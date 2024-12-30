@@ -1,0 +1,16 @@
+{
+  "name": "Example Python & PostgreSQL Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "VARIANT": "3.8",
+      "INSTALL_NODE": "false"
+    }
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": ["ms-python.python", "ms-azuretools.vscode-docker"],
+  "postCreateCommand": "pip install -r requirements.txt",
+  "remoteUser": "vscode"
+}
