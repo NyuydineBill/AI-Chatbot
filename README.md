@@ -1,14 +1,24 @@
-This repository contains a README file sample for Daytona Samples and the MIT License.
+# AI-Chatbot
+contact: billleynyuy@gmail.com
+Tel: +237681775574
 
-It can be used as a template to create sample repositories that can be added into [Daytona](https://github.com/daytonaio/daytona).
+This is an AI chatbot incorporated using the OpenAI API. It leverages the power of GPT (Generative Pre-trained Transformer) to provide natural language processing capabilities and engage in interactive conversations with users.
 
-Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
+#Deployed
+https://nyuydinegpt.onrender.com/
 
-# Sample <LANGUAGE/FRAMEWORK>
+## Table of Contents
 
-Sample description
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
----
+## Project Overview
+
+Nyuydine-GPT is an AI chatbot designed to facilitate interactive conversations with users. It utilizes the OpenAI API and the GPT-3.5 language model to generate human-like responses and provide a conversational experience.
 
 ## 🚀 Getting Started  
 
